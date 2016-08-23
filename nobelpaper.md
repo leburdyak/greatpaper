@@ -1,1 +1,1 @@
-the world is wonderful
+the world is ** not** wonderful
